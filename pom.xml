@@ -26,8 +26,7 @@
     </plugins>
   </build>
    <distributionManagement>
-        </repository>
-        <snapshotRepository>
+       <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
             <url>http://13.233.95.61:8081/nexus/content/repositories/snapshots//</url>
